@@ -1,11 +1,26 @@
 # 3D-Model-Arm-Design
 
-to view model 
-https://tinyurl.com/3d-model-arm-design
+🔗 **View the 3D model:** [View on Onshape](https://tinyurl.com/3d-model-arm-design)
 
-used onshape and it is 3d cad 
+## 📌 About the Project
 
+This project is for educational purposes ,it showcases a **3D CAD model of a mechanical arm**, designed using **Onshape** — a powerful, cloud-based computer-aided design (CAD) platform.  
+It demonstrates basic articulation and structure of a robotic/mechanical arm.
 
+## 🛠️ Tools Used
 
-image of the model
+- **Onshape** – for 3D modeling and design.
+- **GitHub** – for sharing and version control.
+
+## 🖼️ Preview
+
 ![image](https://github.com/user-attachments/assets/8df62065-7533-4373-b5cd-9c6290428632)
+
+## 📂 Repository
+
+Explore the files and history of the project here:  
+🔗 [GitHub Repository](https://github.com/AhmedJamjoom/3D-Model-Arm-Design)
+
+---
+
+Feel free to contribute or provide feedback!
