@@ -8,5 +8,4 @@ used onshape and it is 3d cad
 
 
 image of the model
-
-https://github.com/AhmedJamjoom/3D-Model-Arm-Design/blob/main/Screenshot%202025-07-02%20182919.png
+![image](https://github.com/user-attachments/assets/8df62065-7533-4373-b5cd-9c6290428632)
